@@ -55,15 +55,6 @@ class Product(Resource):
         return '', 204
 
 
-
-
-def response_header(data):
-    return jsonify({
-        "date": datetime.datetime.now(),
-        "quantity_total": len(list_products),
-        "results": data
-    })
-
 class ProductKabum(MethodView):
     def get(self, codigo):
         if codigo == None:

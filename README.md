@@ -6,7 +6,7 @@ Segue desenho esquemático com camadas arquiteturais: [ACESSE AQUI](https://driv
 
 **flask_restful**: Uma lib que facilita o controle dos dados que serão renderizados na resposta.- Com o recurso marshal_with é possível definir um retorno padrão para sua resposta podendo "excluir" os dados que você não quer que retorne para o usuário.
 
-**flask.views.MethodView**: É uma das `Pluggable View` que o Flask nos disponibiliza. Inspirada nas `generics views` do Django, o MethodView é uma view baseada em classe que disponibiliza métodos correspondentes aos métodos HTTP.
+**flask.views.MethodView**: É uma das `Pluggable View` que o Flask nos disponibiliza. Inspirada nas `generics views` do Django, o MethodView é uma view baseada em classe que disponibiliza métodos correspondentes aos métodos HTTP e a possibilidade de aproveitamento de rotas para diversas requisições.
 
 ## Começando
 
