@@ -1,0 +1,9 @@
+#venv
+
+venv
+
+storage.db
+
+.vscode
+
+__pycache__
