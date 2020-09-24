@@ -1,7 +1,7 @@
 import datetime
 
 from utils.data import response_header, list_products
-from app import db
+from app.models import db
 
 from flask import jsonify, request, make_response
 from flask.views import MethodView
@@ -53,7 +53,6 @@ class Product(Resource):
         db.session.delete(product_delete)
         db.session.commit()
         return '', 204
-
 
 class ProductKabum(MethodView):
     def get(self, codigo):

@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from app import db
+from app.models import db
 
 @dataclass
 class Product(db.Model):
