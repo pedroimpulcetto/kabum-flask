@@ -118,7 +118,7 @@ E temos também o acesso à rota "*/kabum/<<int:codigo>>*" com os Método *"GET"
 #### **Pedro Impulcetto**
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedroimpulcetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroimpulcetto/)](https://www.linkedin.com/in/pedroimpulcetto/)
-[![YouTube Badge](https://img.shields.io/badge/-PedroImpulcetto-ff0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsnD5AhrIq7BvKvZFKLT-pQ?view_as=subscriber)](https://www.youtube.com/channel/UCsnD5AhrIq7BvKvZFKLT-pQ?view_as=subscriber)
+>[![YouTube Badge](https://img.shields.io/badge/-PedroImpulcetto-ff0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsnD5AhrIq7BvKvZFKLT-pQ?view_as=subscriber)](https://www.youtube.com/channel/UCsnD5AhrIq7BvKvZFKLT-pQ?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.impulcetto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.impulcetto@gmail.com)](mailto:pedro.impulcetto@gmail.com)
 
 Repositório GitHub: (https://github.com/pedroimpulcetto)
