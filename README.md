@@ -61,7 +61,10 @@ Utilizei para desenvolvimento do projeto os conceitos dos pacotes:
     - *flask_migrate*
 
 Implementei a utilização de **ORM's** para controle e manipulação dos dados nas consultas do banco de dados.
+
 Utilizei `@dataclass` para simplificação e modelagem da estrutura dos models.
+
+Design Patterns tipo Factory foi implementado para construção do projeto.
 
 
 ### PARTE 1
